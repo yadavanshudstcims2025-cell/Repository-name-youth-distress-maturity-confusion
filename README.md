@@ -29,8 +29,3 @@ This repository contains my MSc Statistics portfolio project analysing how psych
   - Female respondents report significantly higher distress than males.
   - Clustering reveals a high‑maturity, high‑confusion, high‑distress group, suggesting that maturity and distress can coexist when confusion is high.
 
-## How to View
-
-You can:
-- Browse the Jupyter notebooks directly in GitHub (they render in the browser).
-- Download and open `Youth_Distress_Analytics_Report.pdf` for the full academic write‑up.
